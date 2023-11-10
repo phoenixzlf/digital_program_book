@@ -1,0 +1,62 @@
+﻿DATE,FROM,TO,LOCATION,TYPE,TOPIC,SESSION
+7/30/2023,5:00 PM,8:00 PM,Olmsted Hall,Session,Reception,R
+7/31/2023,8:30 AM,9:00 AM,Aliber Hall,Session,Breakfast,A
+7/31/2023,9:00 AM,9:20 AM,Aliber Hall,Session,Welcome and Opening Remarks,A
+7/31/2023,9:00 AM,9:10 AM,Aliber 101,Content,Welcome by Alejandro Hernandez,A
+7/31/2023,9:10 AM,9:20 AM,Aliber 101,Content,Opening Remarks by Larry Zimpleman,A
+7/31/2023,9:20 AM,10:20 AM,Aliber 101,Session,Keynote Session by Montserrat Guillen,A
+7/31/2023,10:20 AM,10:50 AM,Aliber Hall,Session,Coffee Break,A
+7/31/2023,10:50 AM,12:20 PM,Aliber Hall,Session,Invited/Breakout Sessions,A
+7/31/2023,10:50 AM,12:20 PM,Aliber 101,Content,(Invited Session) Climate Change: Models and Data,A
+7/31/2023,10:50 AM,12:20 PM,Aliber 102,Content,Statistical and Machine Learning I,A
+7/31/2023,10:50 AM,12:20 PM,Aliber 103,Content,Quantitative Finance I,A
+7/31/2023,10:50 AM,12:20 PM,Aliber 107,Content,Retirement and Pension Mathematics I,A
+7/31/2023,12:20 PM,1:30 PM,Hubbell Dining Hall,Session,Lunch,B
+7/31/2023,1:30 PM,3:00 PM,Aliber Hall,Session,Invited/Breakout Sessions,B
+7/31/2023,1:30 PM,2:30 PM,Aliber 101,Content,(Invited Session) Professionalism in the Era of Artificial Intelligence,B
+7/31/2023,1:30 PM,3:00 PM,Aliber 102,Content,Loss Reserving and Ratemaking,B
+7/31/2023,1:30 PM,3:00 PM,Aliber 103,Content,Climate Risk and Sustainability I,B
+7/31/2023,1:30 PM,3:00 PM,Aliber 107,Content,Optimal Control and Optimization I,B
+7/31/2023,1:30 PM,3:00 PM,Aliber 108,Content,Education and Professional Development I,B
+7/31/2023,3:00 PM,3:20 PM,Aliber Hall,Session,Coffee Break,C
+7/31/2023,3:20 PM,4:20 PM,Aliber Hall,Session,Invited/Breakout Sessions,C
+7/31/2023,3:20 PM,4:20 PM,Aliber 101,Content,(Invited Session) Casualty Actuarial Society Invited Session,C
+7/31/2023,3:20 PM,4:20 PM,Aliber 102,Content,"Blockchain, Telematics, and InsurTech I",C
+7/31/2023,3:20 PM,4:20 PM,Aliber 103,Content,Risk Modeling and Measurement I,C
+7/31/2023,3:20 PM,4:20 PM,Aliber 107,Content,P & C Insurance,C
+7/31/2023,3:20 PM,4:20 PM,Aliber 108,Content,Climate Risk and Sustainability II,C
+7/31/2023,5:00 PM,7:00 PM,Jasper Winery,Session,Jasper Winery Tour (Shuttle departs from Drake for Jasper Winery at 4:40 PM and 5:10 PM),C
+8/1/2023,8:30 AM,9:00 AM,Aliber Hall,Session,Breakfast,D
+8/1/2023,9:00 AM,10:00 AM,Aliber 101,Session,Keynote Session by Elena Black,D
+8/1/2023,10:00 AM,10:30 AM,Aliber Hall,Session,Coffee Break,D
+8/1/2023,10:30 AM,12:00 PM,Aliber Hall,Session,Invited/Breakout Sessions,D
+8/1/2023,10:30 AM,12:00 PM,Aliber 101,Content,(Invited Session) In Memory of Dr. Ken Seng Tan,D
+8/1/2023,10:30 AM,12:00 PM,Aliber 102,Content,Risk Modeling and Measurement II,D
+8/1/2023,10:30 AM,12:00 PM,Aliber 103,Content,Statistical and Machine Learning II,D
+8/1/2023,10:30 AM,12:00 PM,Aliber 107,Content,Mortality and Longevity Modeling I,D
+8/1/2023,12:00 PM,1:30 PM,Hubbell Dining Hall,Session,Lunch,E
+8/1/2023,1:30 PM,3:00 PM,Aliber Hall,Session,Invited/Breakout Sessions,E
+8/1/2023,1:30 PM,3:00 PM,Aliber 101,Content,(Invited Session) DE&I Panel,E
+8/1/2023,1:30 PM,3:00 PM,Aliber 102,Content,Optimal Control and Optimization II,E
+8/1/2023,1:30 PM,3:00 PM,Aliber 103,Content,"Blockchain, Telematics, and InsurTech II",E
+8/1/2023,1:30 PM,3:00 PM,Aliber 107,Content,Life Insurance,E
+8/1/2023,1:30 PM,3:00 PM,Aliber 108,Content,Catastrophic Risk Modeling,E
+8/1/2023,3:00 PM,3:20 PM,Aliber Hall,Session,Coffee Break,F
+8/1/2023,3:20 PM,4:50 PM,Aliber Hall,Session,Invited/Breakout Sessions,F
+8/1/2023,3:20 PM,4:50 PM,Aliber 101,Content,"(Invited Session) Education Updates from CIA, CAS, and SOA",F
+8/1/2023,3:20 PM,4:50 PM,Aliber 102,Content,Statistical and Machine Learning III,F
+8/1/2023,3:20 PM,4:50 PM,Aliber 103,Content,Cyber Risk,F
+8/1/2023,3:20 PM,4:50 PM,Aliber 107,Content,Risk Modeling and Measurement III,F
+8/1/2023,6:00 PM,7:00 PM,Hotel Fort Des Moines,Session,Reception Prior to Banquet (Shuttle departs from Drake at 5:00 PM and 5:30 PM for hotels and Hotel Fort Des Moines),F
+8/1/2023,7:00 PM,9:15 PM,Hotel Fort Des Moines,Session,Banquet,F
+8/2/2023,8:30 AM,9:00 AM,Aliber Hall,Session,Breakfast,G
+8/2/2023,9:00 AM,10:30 AM,Aliber Hall,Session,Invited/Breakout Sessions,G
+8/2/2023,9:00 AM,10:30 AM,Aliber 101,Content,(Invited Session) Milliman Special Session,G
+8/2/2023,9:00 AM,10:30 AM,Aliber 102,Content,Statistical and Machine Learning IV,G
+8/2/2023,9:00 AM,10:30 AM,Aliber 103,Content,Quantitative Finance II,G
+8/2/2023,9:00 AM,10:30 AM,Aliber 107,Content,Insurance Economics II,G
+8/2/2023,9:00 AM,10:30 AM,Aliber 108,Content,Education and Professional Development II,G
+8/2/2023,9:00 AM,10:00 AM,Aliber 112,Content,Mortality and Longevity Modeling II,G
+8/2/2023,10:30 AM,11:00 AM,Aliber Hall,Session,Coffee Break,G
+8/2/2023,11:00 AM,12:00 PM,Aliber 101,Session,Keynote Session by Edward (Jed) Frees,G
+8/2/2023,12:00 PM,12:20 PM,Aliber 101,Session,Closing Remarks,G
